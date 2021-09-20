@@ -12,6 +12,7 @@
 - https://documenter.getpostman.com/view/7294517/SzmfZHnd#intro
 - [Using Keycloak Admin Client to create user with roles (Realm and Client level)](https://gist.github.com/thomasdarimont/c4e739c5a319cf78a4cff3b87173a84b)
 - [keycloak project example](https://github.com/thomasdarimont/keycloak-project-example)
+- [awesome keycloak](https://github.com/thomasdarimont/awesome-keycloak)
 
 # js / static files / frames
 
