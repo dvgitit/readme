@@ -22,3 +22,8 @@
 - [Using a CDN for your static assets served by Kubernetes | by Jean-Sébastien Ney | ITNEXT](https://itnext.io/using-a-cdn-for-your-static-assets-served-by-kubernetes-2445e1ff75f)
 - [Deploy a Static Website on Kubernetes](https://rickyhan.com/jekyll/update/2017/09/05/deploy-static-website-on-kubernetes.html)
 - [Statische Dateien bereitstellen](https://cloud.google.com/appengine/docs/flexible/nodejs/serving-static-files)
+
+# gitlab
+
+- [disable user account edit](https://gitlab.com/gitlab-org/gitlab/-/issues/24605)
+  gitlab_username_changing_enabled
