@@ -24,6 +24,10 @@
 - [Deploy a Static Website on Kubernetes](https://rickyhan.com/jekyll/update/2017/09/05/deploy-static-website-on-kubernetes.html)
 - [Statische Dateien bereitstellen](https://cloud.google.com/appengine/docs/flexible/nodejs/serving-static-files)
 
+## js Testing
+
+- [mocha / mocks / tracing](https://blog.logrocket.com/unit-testing-node-js-applications-using-mocha-chai-and-sinon/)
+
 # gitlab
 
 - [disable user account edit](https://gitlab.com/gitlab-org/gitlab/-/issues/24605)
