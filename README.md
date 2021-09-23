@@ -35,5 +35,5 @@
 - [js mocha / mocks / tracing](https://blog.logrocket.com/unit-testing-node-js-applications-using-mocha-chai-and-sinon/)
 
 # Spring
-)
+
 - [spring cloud demo k8s](https://github.com/tsalm-pivotal/spring-cloud-demo-k8s)
