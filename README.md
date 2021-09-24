@@ -18,6 +18,7 @@
 - https://www.baeldung.com/java-keycloak-custom-user-providers
 - https://scalac.io/blog/user-authentication-keycloak-1/
 - https://stackoverflow.com/questions/62767085/custom-username-in-keycloak
+- https://huongdanjava.com/create-new-user-in-keycloak.html
 
 # js / static files / frames
 
