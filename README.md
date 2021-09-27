@@ -45,3 +45,7 @@
 # Spring
 
 - [spring cloud demo k8s](https://github.com/tsalm-pivotal/spring-cloud-demo-k8s)
+
+# Web
+
+- [injection](https://stackoverflow.com/questions/56660355/how-to-inject-javascript-in-existing-html-response-with-node-js-and-cloudflare-w)
