@@ -21,7 +21,9 @@
 - https://stackoverflow.com/questions/62767085/custom-username-in-keycloak
 - https://huongdanjava.com/create-new-user-in-keycloak.html
 
-# js / static files / frames
+# js
+
+## static files / frames
 
 - [3 JavaScript libraries to replace jQuery | InfoWorld](https://www.infoworld.com/article/3392876/3-javascript-libraries-to-replace-jquery.html)
 - [Deploying Vue.js Apps to Kubernetes · Kubernetes Development Blog](https://devspace.cloud/blog/2019/09/30/deploy-vue-js-to-kubernetes)
@@ -30,6 +32,14 @@
 - [Using a CDN for your static assets served by Kubernetes | by Jean-Sébastien Ney | ITNEXT](https://itnext.io/using-a-cdn-for-your-static-assets-served-by-kubernetes-2445e1ff75f)
 - [Deploy a Static Website on Kubernetes](https://rickyhan.com/jekyll/update/2017/09/05/deploy-static-website-on-kubernetes.html)
 - [Statische Dateien bereitstellen](https://cloud.google.com/appengine/docs/flexible/nodejs/serving-static-files)
+
+## queues
+
+- https://www.geeksforgeeks.org/node-js-async-queue-method/
+- https://www.tutorialspoint.com/async-queue-method-in-node-js
+- https://medium.com/@karenmarkosyan/how-to-manage-promises-into-dynamic-queue-with-vanilla-javascript-9d0d1f8d4df5
+- https://github.com/bee-queue/bee-queue#overview
+- https://blog.logrocket.com/a-deep-dive-into-queues-in-node-js/
 
 # gitlab
 
