@@ -59,3 +59,10 @@
 # Web
 
 - [injection](https://stackoverflow.com/questions/56660355/how-to-inject-javascript-in-existing-html-response-with-node-js-and-cloudflare-w)
+
+# Queues & k8s
+
+- https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/
+
+
+
