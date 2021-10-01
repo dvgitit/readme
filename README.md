@@ -64,4 +64,5 @@
 
 - https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/
 - [kubemq docs](https://kubemq.io/) und [kubemq community](https://github.com/kubemq-io/kubemq-community)
+- https://dzone.com/articles/microservice-messaging-in-kubernetes
 
