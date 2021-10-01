@@ -63,6 +63,5 @@
 # Queues & k8s
 
 - https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/
-
-
+- https://kubemq.io/
 
