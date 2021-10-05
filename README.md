@@ -69,6 +69,7 @@
 # ansible
 
 - https://www.ansible.com/blog/introduction-to-ansible-test
+- https://www.ansible.com/blog/adding-integration-tests-to-ansible-content-collections
 - https://www.ansible.com/blog/announcing-the-community-ansible-3.0.0-package
 - https://www.ansible.com/blog/ansible-3.0.0-qa
 - https://www.ansible.com/blog/fast-vs-easy-benchmarking-ansible-operators-for-kubernetes
