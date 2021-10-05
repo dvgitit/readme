@@ -81,3 +81,8 @@
 # rancher
 
 - https://www.sokube.ch/post/k3s-k3d-k8s-a-new-perfect-match-for-dev-and-test
+
+# Prozesse
+
+- https://www.gitops.tech/
+- 
