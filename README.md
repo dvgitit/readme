@@ -78,3 +78,6 @@
 - https://www.ansible.com/blog/using-new-ansible-utilities-for-operational-state-management-and-remediation
 - https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
 
+# rancher
+
+- https://www.sokube.ch/post/k3s-k3d-k8s-a-new-perfect-match-for-dev-and-test
