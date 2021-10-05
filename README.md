@@ -66,3 +66,11 @@
 - [kubemq docs](https://kubemq.io/) und [kubemq community](https://github.com/kubemq-io/kubemq-community)
 - https://dzone.com/articles/microservice-messaging-in-kubernetes
 
+# ansible
+
+https://www.ansible.com/blog/introduction-to-ansible-test
+https://www.ansible.com/blog/announcing-the-community-ansible-3.0.0-package
+https://www.ansible.com/blog/ansible-3.0.0-qa
+https://www.ansible.com/blog/fast-vs-easy-benchmarking-ansible-operators-for-kubernetes
+https://www.ansible.com/blog/using-new-ansible-utilities-for-operational-state-management-and-remediation
+https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
