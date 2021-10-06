@@ -23,6 +23,8 @@
 
 # js
 
+- https://vuetifyjs.com/en/getting-started/installation/
+
 ## static files / frames
 
 - [3 JavaScript libraries to replace jQuery | InfoWorld](https://www.infoworld.com/article/3392876/3-javascript-libraries-to-replace-jquery.html)
