@@ -61,6 +61,7 @@
 # Web
 
 - [injection](https://stackoverflow.com/questions/56660355/how-to-inject-javascript-in-existing-html-response-with-node-js-and-cloudflare-w)
+- https://codepen.io/TimRizzo/pen/ervrRq
 
 # Queues & k8s
 
