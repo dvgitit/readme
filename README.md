@@ -84,6 +84,7 @@
 # rancher
 
 - https://www.sokube.ch/post/k3s-k3d-k8s-a-new-perfect-match-for-dev-and-test
+- https://itnext.io/kubernetes-rancher-2-5-on-your-windows-10-laptop-with-k3d-and-k3s-7404f288342f?gi=9820c454115e
 
 # Prozesse
 
