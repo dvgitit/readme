@@ -94,6 +94,10 @@
 - https://itnext.io/kubernetes-rancher-2-5-on-your-windows-10-laptop-with-k3d-and-k3s-7404f288342f?gi=9820c454115e
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 
+# kubernetes
+
+- https://blog.scottlowe.org/tags/kustomize/
+
 # Prozesse
 
 - https://www.gitops.tech/
