@@ -97,6 +97,7 @@
 # kubernetes
 
 - https://blog.scottlowe.org/tags/kustomize/
+- https://docs.google.com/spreadsheets/d/1YMRWmNmVsciR1KXYdSMebsxf4rVmOc_PIzxD5ep4vH4/edit#gid=0
 
 # Prozesse
 
