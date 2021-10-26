@@ -93,11 +93,15 @@
 - https://github.com/SUSE-Rancher-Community/intro-to-kubernetes
 - https://itnext.io/kubernetes-rancher-2-5-on-your-windows-10-laptop-with-k3d-and-k3s-7404f288342f?gi=9820c454115e
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
+- GitOps
+  - https://www.crowdcast.io/e/kubernetes-master-class-5/1
+  - https://github.com/LukeMwila/ci-for-git-ops-pipeline
 
 # kubernetes
 
 - https://blog.scottlowe.org/tags/kustomize/
 - https://docs.google.com/spreadsheets/d/1YMRWmNmVsciR1KXYdSMebsxf4rVmOc_PIzxD5ep4vH4/edit#gid=0
+- 
 
 # Prozesse
 
