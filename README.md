@@ -80,6 +80,11 @@
 - https://www.ansible.com/blog/fast-vs-easy-benchmarking-ansible-operators-for-kubernetes
 - https://www.ansible.com/blog/using-new-ansible-utilities-for-operational-state-management-and-remediation
 - https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
+- [Example content collection](https://goetzrieger.github.io/ansible-collections/5-creating-collections/)
+- [well structured content collections](https://goetzrieger.github.io/ansible-tower-advanced/10-structured-content/)
+- [Konzepte - Neues beim automation hub](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2-private-automation-hub)
+- [Konzepte - migration strategies](https://www.ansible.com/blog/ansible-automation-platform-2-migration-strategy-considerations)
+- [Ansible und GitLab](https://www.ansible.com/blog/using-ansible-automation-platform-gitlab-ce-and-webhooks-to-deploy-iis-website)
 
 # rancher
 
