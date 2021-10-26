@@ -85,7 +85,8 @@
 - [Konzepte - Neues beim automation hub](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2-private-automation-hub)
 - [Konzepte - migration strategies](https://www.ansible.com/blog/ansible-automation-platform-2-migration-strategy-considerations)
 - [Ansible und GitLab](https://www.ansible.com/blog/using-ansible-automation-platform-gitlab-ce-and-webhooks-to-deploy-iis-website)
-
+- [ansible und gitlab triggers](https://www.reddit.com/r/ansible/comments/oxc5wy/using_gitlab_cicd_tooling_to_kick_off_ansible/
+)
 # rancher
 
 - https://www.sokube.ch/post/k3s-k3d-k8s-a-new-perfect-match-for-dev-and-test
