@@ -94,6 +94,9 @@
 - https://github.com/SUSE-Rancher-Community/intro-to-kubernetes
 - https://itnext.io/kubernetes-rancher-2-5-on-your-windows-10-laptop-with-k3d-and-k3s-7404f288342f?gi=9820c454115e
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
+- https://community.suse.com/posts/up-and-running-rancher-october-2021-rancher-setup-for-small-scale-personal-use
+- https://community.suse.com/courses/5804003/content?autojoin=1
+- https://www.suse.com/c/rancher_blog/rancher-desktop-an-open-source-app-for-desktop-kubernetes-and-container-management/
 - GitOps
   - https://www.crowdcast.io/e/kubernetes-master-class-5/1
   - https://github.com/LukeMwila/ci-for-git-ops-pipeline
