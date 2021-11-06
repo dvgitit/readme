@@ -99,6 +99,7 @@
 - https://community.suse.com/courses/5804003/content?autojoin=1
 - https://www.suse.com/c/rancher_blog/rancher-desktop-an-open-source-app-for-desktop-kubernetes-and-container-management/
 - https://www.suse.com/c/introduction-k3d-run-k3s-docker-src/
+- https://github.com/iwilltry42/k3d-demo/tree/main/scripts
 - GitOps
   - https://www.crowdcast.io/e/kubernetes-master-class-5/1
   - https://github.com/LukeMwila/ci-for-git-ops-pipeline
