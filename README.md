@@ -2,6 +2,7 @@
 
 - https://technologyconversations.com/
 - https://blog.nativecloud.dev/
+- https://twitter.com/dweomer
 
 # readme
 
