@@ -1,3 +1,8 @@
+# zum Lesem
+
+- https://technologyconversations.com/
+- https://blog.nativecloud.dev/
+
 # readme
 
 [polaris](https://polaris.docs.fairwinds.com/) - kubernetes checks
