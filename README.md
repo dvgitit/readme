@@ -68,6 +68,7 @@
 
 - [injection](https://stackoverflow.com/questions/56660355/how-to-inject-javascript-in-existing-html-response-with-node-js-and-cloudflare-w)
 - https://codepen.io/TimRizzo/pen/ervrRq
+- [AUTOMATISIERTE DOKUMENTATION MIT SPRING, HUGO UND GRADLE (MD, HTML)](https://jug-saxony-day.org/wp-content/uploads/Dana-Kuban.pdf)
 
 # Queues & k8s
 
