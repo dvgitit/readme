@@ -116,7 +116,7 @@
 - https://blog.scottlowe.org/tags/kustomize/
 - [GitOps Cheat Sheet](https://docs.google.com/spreadsheets/d/1YMRWmNmVsciR1KXYdSMebsxf4rVmOc_PIzxD5ep4vH4)
 - [Cloud Development Kit](https://cdk8s.io/)
-- 
+- [EXTEND KUBERNETES-CLI WITH JAVA](https://jug-saxony-day.org/wp-content/uploads/Bernd-Fischer.pdf)
 
 # Prozesse
 
