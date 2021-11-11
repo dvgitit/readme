@@ -122,7 +122,6 @@
 # Prozesse
 
 - https://www.gitops.tech/
-- 
 
 # Terraform
 
