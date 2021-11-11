@@ -123,3 +123,7 @@
 
 - https://www.gitops.tech/
 - 
+
+# Terraform
+
+- [Terraform und terragrunt](https://cloudtruth.com/blog/dry-terragrunt-terraform-modules)
