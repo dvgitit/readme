@@ -131,3 +131,6 @@
 
 - https://access.redhat.com/webassets/avalon/d/Mastering_CloudForms_Automation_Red_Hat/Mastering_CloudForms_Automation_Red_Hat.pdf
 - [Integration externe Services cmdb](https://github.com/pemcg/manageiq-automation-howto-guide/blob/master/chapter22/calling_external_services.md)
+- https://github.com/pemcg/manageiq-automation-howto-guide/blob/0676499eb8be3a400ae4cad2d3a693314bbddf5a/chapter15/customising_vm_provisioning.md
+- https://github.com/pemcg/manageiq-automation-howto-guide/blob/0676499eb8be3a400ae4cad2d3a693314bbddf5a/chapter22/calling_external_services.md
+
