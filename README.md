@@ -82,6 +82,12 @@
   - https://www.ansible.com/blog/introduction-to-ansible-test
   - https://www.ansible.com/blog/adding-integration-tests-to-ansible-content-collections
   - https://github.com/xlab-steampunk/digital_ocean.digital_ocean/tree/1st-installment
+- ansible content collection
+  - [Beispiel content collection](https://github.com/ansible-collections/community.docker)
+  - [usage of content_collection](https://github.com/dvgitit/usage-of-collection_template)
+  - [dev guide content collection](https://docs.ansible.com/ansible/devel/dev_guide/index.html)
+  - [content collection requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)
+  - [content collection requirements/checklist](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)
 - https://www.ansible.com/blog/announcing-the-community-ansible-3.0.0-package
 - https://www.ansible.com/blog/ansible-3.0.0-qa
 - https://www.ansible.com/blog/fast-vs-easy-benchmarking-ansible-operators-for-kubernetes
@@ -93,8 +99,9 @@
 - [Konzepte - migration strategies](https://www.ansible.com/blog/ansible-automation-platform-2-migration-strategy-considerations)
 - https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
 - [Ansible und GitLab](https://www.ansible.com/blog/using-ansible-automation-platform-gitlab-ce-and-webhooks-to-deploy-iis-website)
-- [ansible und gitlab triggers](https://www.reddit.com/r/ansible/comments/oxc5wy/using_gitlab_cicd_tooling_to_kick_off_ansible/
-)
+- [ansible und gitlab triggers](https://www.reddit.com/r/ansible/comments/oxc5wy/using_gitlab_cicd_tooling_to_kick_off_ansible/)
+
+
 # rancher
 
 - https://www.sokube.ch/post/k3s-k3d-k8s-a-new-perfect-match-for-dev-and-test
