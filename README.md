@@ -126,3 +126,8 @@
 # Terraform
 
 - [Terraform und terragrunt](https://cloudtruth.com/blog/dry-terragrunt-terraform-modules)
+
+# manageIQ
+
+- https://access.redhat.com/webassets/avalon/d/Mastering_CloudForms_Automation_Red_Hat/Mastering_CloudForms_Automation_Red_Hat.pdf
+- 
