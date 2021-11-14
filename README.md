@@ -88,6 +88,7 @@
   - [dev guide content collection](https://docs.ansible.com/ansible/devel/dev_guide/index.html)
   - [content collection requirements](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)
   - [content collection requirements/checklist](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)
+  - https://www.jung-christian.de/ (Neues & Beispiele zu ansible collections)
 - https://www.ansible.com/blog/announcing-the-community-ansible-3.0.0-package
 - https://www.ansible.com/blog/ansible-3.0.0-qa
 - https://www.ansible.com/blog/fast-vs-easy-benchmarking-ansible-operators-for-kubernetes
