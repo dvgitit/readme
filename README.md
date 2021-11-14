@@ -130,4 +130,4 @@
 # manageIQ
 
 - https://access.redhat.com/webassets/avalon/d/Mastering_CloudForms_Automation_Red_Hat/Mastering_CloudForms_Automation_Red_Hat.pdf
-- 
+- [Integration externe Services cmdb](https://github.com/pemcg/manageiq-automation-howto-guide/blob/master/chapter22/calling_external_services.md)
