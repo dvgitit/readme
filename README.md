@@ -141,4 +141,14 @@
 - [Integration externe Services cmdb](https://github.com/pemcg/manageiq-automation-howto-guide/blob/master/chapter22/calling_external_services.md)
 - https://github.com/pemcg/manageiq-automation-howto-guide/blob/0676499eb8be3a400ae4cad2d3a693314bbddf5a/chapter15/customising_vm_provisioning.md
 - https://github.com/pemcg/manageiq-automation-howto-guide/blob/0676499eb8be3a400ae4cad2d3a693314bbddf5a/chapter22/calling_external_services.md
+- Modeling
+  - https://talk.manageiq.org/t/deploying-container/1711
+  - https://prodevans.com/index.php/2020/06/03/creating-a-simple-service-on-manageiq/
+  - https://www.cloud-computing-koeln.de/calling-an-embedded-ansible-playbook-from-the-vm-provision-state-machine/
+  - https://gitlab.com/rcalvaga/manageiq-automation-howto-guide/-/blob/master/SUMMARY.md
+  - https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-1-and-manage/content/creating_an_ansible_tower_service_catalog_item_and_bundle/chapter.html
+    - https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-1-and-manage/content/running_an_ansible_tower_job_from_a_button/chapter.html
+    - https://github.com/pemcg/ansible_playbooks
+
+
 
