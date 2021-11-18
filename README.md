@@ -149,6 +149,7 @@
   - https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-1-and-manage/content/creating_an_ansible_tower_service_catalog_item_and_bundle/chapter.html
     - https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-1-and-manage/content/running_an_ansible_tower_job_from_a_button/chapter.html
     - https://github.com/pemcg/ansible_playbooks
+  - https://talk.manageiq.org/t/manageiq-extra-var-absent-when-use-tower-job-as-a-button/5318
 - https://developers.redhat.com/blog/2021/03/10/write-your-own-red-hat-ansible-tower-inventory-plugin#
 
 
