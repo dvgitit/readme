@@ -119,6 +119,7 @@
   - https://www.crowdcast.io/e/kubernetes-master-class-5/1
   - https://github.com/LukeMwila/ci-for-git-ops-pipeline
   - https://stackshare.io/stackups/kubestack-vs-rancher-fleet
+- https://gist.github.com/ferdinandosimonetti/f75b1f76c78b90050c09484cb21bac65
 
 # kubernetes
 
