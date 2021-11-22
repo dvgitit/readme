@@ -101,6 +101,15 @@
 - https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
 - [Ansible und GitLab](https://www.ansible.com/blog/using-ansible-automation-platform-gitlab-ce-and-webhooks-to-deploy-iis-website)
 - [ansible und gitlab triggers](https://www.reddit.com/r/ansible/comments/oxc5wy/using_gitlab_cicd_tooling_to_kick_off_ansible/)
+- https://www.ansible.com/blog/introducing-the-awx-collection
+- https://hooks.technology/2017/08/ansible-tower-provisioning-callbacks/
+- https://backoffice.doag.org/formes/pubfiles/13180705/docs/Publikationen/Red-Stack-Magazin-inkl-Business-News/2021/03-2021/03_2021-Red_Stack_Magazin-Dietmar_Uhlig-Datenbank_auf_Knopfdruck%E2%80%93Automatisierung_mit_AWX_und_ansible-oracle.pdf
+- https://www.heise.de/ratgeber/Systemmanagement-Netzwerkautomatisierung-mit-dem-Ansible-Zusatz-AWX-6206444.html
+- https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
+- https://www.ansible.com/blog/introduction-to-ansible-test
+- https://www.ansible.com/blog/the-future-of-ansible-content-delivery
+
+
 
 
 # rancher
