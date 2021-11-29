@@ -164,6 +164,8 @@
   - https://talk.manageiq.org/t/manageiq-extra-var-absent-when-use-tower-job-as-a-button/5318
 - https://developers.redhat.com/blog/2021/03/10/write-your-own-red-hat-ansible-tower-inventory-plugin#
 - https://tech.xlab.si/tags/manageiq/
+- Training / Labs / Beispiele
+  - https://codeload.github.com/ramrexx/CloudFormsPOC/zip/master
 
 
 
