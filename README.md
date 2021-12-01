@@ -168,6 +168,7 @@
   - https://codeload.github.com/ramrexx/CloudFormsPOC/zip/master
   - https://github.com/cbolz/partner-conference-2017-labs.git
   - [Beispiel Placement Dialog](https://labs.jung-christian.de/partner-conference-2017/ansible-inside/optimize-dialog/)
+  - Dialog und Expression: https://talk.manageiq.org/t/automate-expression-methods/3071
 
 
 
