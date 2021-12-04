@@ -169,6 +169,7 @@
   - https://github.com/cbolz/partner-conference-2017-labs.git
   - [Beispiel Placement Dialog](https://labs.jung-christian.de/partner-conference-2017/ansible-inside/optimize-dialog/)
   - Dialog und Expression: https://talk.manageiq.org/t/automate-expression-methods/3071
+  - https://www.manageiq.org/docs/reference/latest/scripting_actions/index.html - Listen Dialoge Scripting
 
 
 
