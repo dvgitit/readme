@@ -110,7 +110,7 @@
 - https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
 - https://www.ansible.com/blog/introduction-to-ansible-test
 - https://www.ansible.com/blog/the-future-of-ansible-content-delivery
-
+- https://github.com/ansible/workshops
 
 
 
