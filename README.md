@@ -165,7 +165,7 @@
 - https://developers.redhat.com/blog/2021/03/10/write-your-own-red-hat-ansible-tower-inventory-plugin#
 - https://tech.xlab.si/tags/manageiq/
 - Training / Labs / Beispiele
-  - https://codeload.github.com/ramrexx/CloudFormsPOC/zip/master
+  - https://codeload.github.com/ramrexx/CloudFormsPOC/zip/master und https://github.com/ramrexx/CloudForms_Essentials (Nachfolger)
   - https://github.com/cbolz/partner-conference-2017-labs.git
   - [Beispiel Placement Dialog](https://labs.jung-christian.de/partner-conference-2017/ansible-inside/optimize-dialog/)
   - Dialog und Expression: https://talk.manageiq.org/t/automate-expression-methods/3071
