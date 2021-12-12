@@ -1,8 +1,9 @@
-# zum Lesem
+# zum Lesen
 
 - https://technologyconversations.com/
 - https://blog.nativecloud.dev/
 - https://twitter.com/dweomer
+- https://chronicler.tech/
 
 # readme
 
