@@ -148,6 +148,8 @@
 # Terraform
 
 - [Terraform und terragrunt](https://cloudtruth.com/blog/dry-terragrunt-terraform-modules)
+- [Terraform Variables - A Standard](https://lachlanwhite.com/posts/terraform/10-11-2021-terraform-variables-a-standard)
+- [My Terraform Development Workflow](https://brendanthompson.com/posts/2021/11/my-terraform-development-workflow)
 
 # manageIQ
 
