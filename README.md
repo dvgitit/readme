@@ -102,7 +102,7 @@
 - [Konzepte - Neues beim automation hub](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2-private-automation-hub)
 - [Konzepte - migration strategies](https://www.ansible.com/blog/ansible-automation-platform-2-migration-strategy-considerations)
 - https://www.ansible.com/blog/migrating-to-ansible-collections-webinar-qa
-- [Ansible und GitLab](https://www.ansible.com/blog/using-ansible-automation-platform-gitlab-ce-and-webhooks-to-deploy-iis-website)
+- [Ansible awx und GitLab](https://www.ansible.com/blog/using-ansible-automation-platform-gitlab-ce-and-webhooks-to-deploy-iis-website)
 - [ansible und gitlab triggers](https://www.reddit.com/r/ansible/comments/oxc5wy/using_gitlab_cicd_tooling_to_kick_off_ansible/)
 - https://www.ansible.com/blog/introducing-the-awx-collection
 - https://hooks.technology/2017/08/ansible-tower-provisioning-callbacks/
