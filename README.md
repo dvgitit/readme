@@ -51,7 +51,13 @@
 - https://github.com/bee-queue/bee-queue#overview
 - https://blog.logrocket.com/a-deep-dive-into-queues-in-node-js/
 
-# gitlab
+# git
+
+## git nativ
+
+- blobs Alternative: https://github.com/bup/bup
+
+## gitlab
 
 - [disable user account edit](https://gitlab.com/gitlab-org/gitlab/-/issues/24605)
   gitlab_username_changing_enabled
