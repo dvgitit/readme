@@ -120,6 +120,8 @@
 - https://www.ansible.com/blog/the-future-of-ansible-content-delivery
 - https://github.com/ansible/workshops
 - [facts versus variables](https://chronicler.tech/ansible-rookie-mistake/)
+- Training
+  - https://github.com/ansible/instruqt
 
 
 
