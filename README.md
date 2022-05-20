@@ -183,6 +183,9 @@
   - [Beispiel Placement Dialog](https://labs.jung-christian.de/partner-conference-2017/ansible-inside/optimize-dialog/)
   - Dialog und Expression: https://talk.manageiq.org/t/automate-expression-methods/3071
   - https://www.manageiq.org/docs/reference/latest/scripting_actions/index.html - Listen Dialoge Scripting
+- ansible inventory
+  - https://www.tigeriq.co/dynamic-inventories-in-ansible/
+  - https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-2-and-manage/content/running_an_ansible_tower_job_from_a_button/chapter.html
 
 
 # Sicherheit
