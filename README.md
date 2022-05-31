@@ -194,6 +194,8 @@
 - ansible inventory
   - https://www.tigeriq.co/dynamic-inventories-in-ansible/
   - https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-2-and-manage/content/running_an_ansible_tower_job_from_a_button/chapter.html
+- Automatisierung
+  - https://weekly-geekly-es.imtqy.com/articles/de461891/index.html
 
 
 # Sicherheit
