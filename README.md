@@ -175,6 +175,11 @@
     - https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-1-and-manage/content/running_an_ansible_tower_job_from_a_button/chapter.html
     - https://github.com/pemcg/ansible_playbooks
   - https://talk.manageiq.org/t/manageiq-extra-var-absent-when-use-tower-job-as-a-button/5318
+- Modeling 2
+  - https://gitlab.com/rcalvaga/manageiq-automation-howto-guide
+  - https://www.manageiq.org/docs/reference/latest/general_configuration/
+  - https://aws1.discourse-cdn.com/business5/uploads/manageiq/original/1X/d549c41fd6c56fde3dff20b56161ee0e4ef40b7a.png
+  - https://www.manageiq.org/docs/guides/architecture/rbac
 - https://developers.redhat.com/blog/2021/03/10/write-your-own-red-hat-ansible-tower-inventory-plugin#
 - https://tech.xlab.si/tags/manageiq/
 - Training / Labs / Beispiele
