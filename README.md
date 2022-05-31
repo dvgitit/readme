@@ -180,6 +180,7 @@
   - https://www.manageiq.org/docs/reference/latest/general_configuration/
   - https://aws1.discourse-cdn.com/business5/uploads/manageiq/original/1X/d549c41fd6c56fde3dff20b56161ee0e4ef40b7a.png
   - https://www.manageiq.org/docs/guides/architecture/rbac
+  - https://www.manageiq.org/docs/guides/providers/containers
 - https://developers.redhat.com/blog/2021/03/10/write-your-own-red-hat-ansible-tower-inventory-plugin#
 - https://tech.xlab.si/tags/manageiq/
 - Training / Labs / Beispiele
