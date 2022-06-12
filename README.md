@@ -61,6 +61,9 @@
 
 - [disable user account edit](https://gitlab.com/gitlab-org/gitlab/-/issues/24605)
   gitlab_username_changing_enabled
+- Standardization
+  - gitlab.com/megabytelabs
+  - https://about.gitlab.com/blog/2021/07/29/how-orange-uses-gitlab-ci-cd-for-modern-devops/
 
 # Tests
 
