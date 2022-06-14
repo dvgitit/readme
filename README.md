@@ -64,6 +64,7 @@
 - Standardization
   - gitlab.com/megabytelabs
   - https://about.gitlab.com/blog/2021/07/29/how-orange-uses-gitlab-ci-cd-for-modern-devops/
+- [CI/CD Infrastruktur Rancher / GitLab / Terraform / Ansible / Kubernetes](https://blog.ordix.de/blogger/tobias-bornheim)
 
 # Tests
 
