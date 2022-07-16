@@ -205,4 +205,10 @@
 # Sicherheit
 
 - [Container Security](https://sysdig.com/blog/container-security-best-practices/)
-- 
+
+# Housekeeping
+
+ ```
+ go clean -testcache -modcache -fuzzcache -cache
+ 502  docker system prune --all --force --volumes
+```
