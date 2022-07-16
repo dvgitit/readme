@@ -210,5 +210,5 @@
 
  ```
  go clean -testcache -modcache -fuzzcache -cache
- 502  docker system prune --all --force --volumes
+ docker system prune --all --force --volumes
 ```
